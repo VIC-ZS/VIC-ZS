@@ -2,6 +2,7 @@
 * [Mac软件](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#%E9%9F%B3%E9%A2%91%E5%92%8C%E8%A7%86%E9%A2%91)
 * [Mac使用技巧](https://github.com/qianguyihao/Mac)
 * [MD在线编辑](http://mahua.jser.me/)
+* [MIUI Rom下载](https://roms.miuier.com/)
 <!---
 VIC-ZS/VIC-ZS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
