@@ -1,4 +1,5 @@
 # 实用网址
+免责声明： 以下链接仅仅是技术交流，请在24小时内删除，切勿传播。假如你使用了链接中的资源教程，请遵守所在国的法律法规，切勿用于涉及政治宗教色情犯罪等领域发布违法言论，一切违法后果请自负。
 * [Mac软件](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#%E9%9F%B3%E9%A2%91%E5%92%8C%E8%A7%86%E9%A2%91)
 * [Mac使用技巧](https://github.com/qianguyihao/Mac)
 * [MD在线编辑](http://mahua.jser.me/)
