@@ -6,6 +6,7 @@
 * [MIUI Rom下载](https://roms.miuier.com/)
 * [梯子](https://github.com/freefq/free)
 * [Python教程](https://github.com/jackzhenguo/python-small-examples)
+* [实用软件和工具](https://github.com/byodian/awesometools)
 <!---
 VIC-ZS/VIC-ZS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
