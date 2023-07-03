@@ -8,6 +8,7 @@
 * [Python教程](https://github.com/jackzhenguo/python-small-examples)
 * [程序猿笔记](https://github.com/qyuhen/book)
 * [实用软件和工具](https://github.com/byodian/awesometools)
+* [会员解锁,去广告](https://github.com/Moli-X/Resources)
 <!---
 VIC-ZS/VIC-ZS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
